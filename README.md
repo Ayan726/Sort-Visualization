@@ -25,3 +25,6 @@ This project can be customized by modifying the HTML, CSS, and JavaScript files 
 
 # Contributing
 Contributions to this project are welcome. Please open a pull request if you would like to contribute.
+
+# Link to the website
+https://sort-visualizer-by-ayan.netlify.app/
